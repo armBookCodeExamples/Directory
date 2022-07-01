@@ -33,7 +33,8 @@
 <tr><td rowspan="3" align="center">5</td><td>5.3.2</td><td><a href="https://github.com/armBookCodeExamples/subsection_5-3-2">https://github.com/armBookCodeExamples/subsection_5-3-2</a></td></tr>
 <tr><td>5.4.2</td><td><a href="https://github.com/armBookCodeExamples/templates_subsection_5-4-2">https://github.com/armBookCodeExamples/templates_subsection_5-4-2</a></td></tr>
 <tr><td>5.4.2</td><td><a href="https://github.com/armBookCodeExamples/subsection_5-4-2">https://github.com/armBookCodeExamples/subsection_5-4-2</a></td></tr>
-<tr><td rowspan="8" align="center">6</td><td>6.2.1</td><td><a href="https://github.com/armBookCodeExamples/subsection_6-2-1_bin">https://github.com/armBookCodeExamples/subsection_6-2-1_bin</a></td></tr>
+<tr><td rowspan="9" align="center">6</td><td>Erratum</td><td><a href="https://github.com/armBookCodeExamples/Erratum/edit/main/Chapter6/Readme.md">https://github.com/armBookCodeExamples/Erratum/Chapter6/Readme.md</a></td></tr>
+<tr><td>6.2.1</td><td><a href="https://github.com/armBookCodeExamples/subsection_6-2-1_bin">https://github.com/armBookCodeExamples/subsection_6-2-1_bin</a></td></tr>
 <tr><td>Example 6-1</td><td><a href="https://github.com/armBookCodeExamples/example_6-1">https://github.com/armBookCodeExamples/example_6-1</a></td></tr>
 <tr><td>Example 6-2</td><td><a href="https://github.com/armBookCodeExamples/example_6-2">https://github.com/armBookCodeExamples/example_6-2</a></td></tr>
 <tr><td>6.2.3</td><td><a href="https://github.com/armBookCodeExamples/subsection_6-2-3_bin">https://github.com/armBookCodeExamples/subsection_6-2-3_bin</a></td></tr>
