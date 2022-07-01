@@ -33,7 +33,7 @@
 <tr><td rowspan="3" align="center">5</td><td>5.3.2</td><td><a href="https://github.com/armBookCodeExamples/subsection_5-3-2">https://github.com/armBookCodeExamples/subsection_5-3-2</a></td></tr>
 <tr><td>5.4.2</td><td><a href="https://github.com/armBookCodeExamples/templates_subsection_5-4-2">https://github.com/armBookCodeExamples/templates_subsection_5-4-2</a></td></tr>
 <tr><td>5.4.2</td><td><a href="https://github.com/armBookCodeExamples/subsection_5-4-2">https://github.com/armBookCodeExamples/subsection_5-4-2</a></td></tr>
-<tr><td rowspan="9" align="center">6</td><td>Erratum</td><td><a href="https://github.com/armBookCodeExamples/Erratum/Chapter6">https://github.com/armBookCodeExamples/Erratum/tree/main/Chapter6</a></td></tr>
+<tr><td rowspan="9" align="center">6</td><td>Erratum</td><td><a href="https://github.com/armBookCodeExamples/Erratum/tree/main/Chapter6">https://github.com/armBookCodeExamples/Erratum/Chapter6</a></td></tr>
 <tr><td>6.2.1</td><td><a href="https://github.com/armBookCodeExamples/subsection_6-2-1_bin">https://github.com/armBookCodeExamples/subsection_6-2-1_bin</a></td></tr>
 <tr><td>Example 6-1</td><td><a href="https://github.com/armBookCodeExamples/example_6-1">https://github.com/armBookCodeExamples/example_6-1</a></td></tr>
 <tr><td>Example 6-2</td><td><a href="https://github.com/armBookCodeExamples/example_6-2">https://github.com/armBookCodeExamples/example_6-2</a></td></tr>
@@ -61,7 +61,8 @@
 <tr><td>Example 9-2</td><td><a href="https://github.com/armBookCodeExamples/example_9-2">https://github.com/armBookCodeExamples/example_9-2</a></td></tr>
 <tr><td>Example 9-3</td><td><a href="https://github.com/armBookCodeExamples/example_9-3">https://github.com/armBookCodeExamples/example_9-3</a></td></tr>
 <tr><td>Example 9-4</td><td><a href="https://github.com/armBookCodeExamples/example_9-4">https://github.com/armBookCodeExamples/example_9-4</a></td></tr>
-<tr><td rowspan="6" align="center">10</td><td>Erratum</td><td><a href="https://github.com/armBookCodeExamples/Erratum/Chapter10">https://github.com/armBookCodeExamples/Erratum/tree/main/Chapter10</a></td></tr>
+<tr><td rowspan="6" align="center">10</td><td>Erratum</td><td>
+  <a href="https://github.com/armBookCodeExamples/Erratum/tree/main/Chapter10">https://github.com/armBookCodeExamples/Erratum/Chapter10</a></td></tr>
 <tr><td>10.2.1</td><td><a href="https://github.com/armBookCodeExamples/subsection_10-2-1_bin">https://github.com/armBookCodeExamples/subsection_10-2-1_bin</a></td></tr>
 <tr><td>Example 10-1</td><td><a href="https://github.com/armBookCodeExamples/example_10-1">https://github.com/armBookCodeExamples/example_10-1</a></td></tr>
 <tr><td>Example 10-2</td><td><a href="https://github.com/armBookCodeExamples/example_10-2">https://github.com/armBookCodeExamples/example_10-2</a></td></tr>
