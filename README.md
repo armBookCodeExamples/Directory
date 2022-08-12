@@ -19,7 +19,8 @@
 <tr><td>Example 2-3</td><td><a href="https://github.com/armBookCodeExamples/example_2-3">https://github.com/armBookCodeExamples/example_2-3</a></td></tr>
 <tr><td>Example 2-4</td><td><a href="https://github.com/armBookCodeExamples/example_2-4">https://github.com/armBookCodeExamples/example_2-4</a></td></tr>
 <tr><td>Example 2-5</td><td><a href="https://github.com/armBookCodeExamples/example_2-5">https://github.com/armBookCodeExamples/example_2-5</a></td></tr>
-<tr><td rowspan="7" align="center">3</td><td>3.2.2</td><td><a href="https://github.com/armBookCodeExamples/subsection_3-2-2_bin">https://github.com/armBookCodeExamples/subsection_3-2-2_bin</a></td></tr>
+<tr><td rowspan="8" align="center">3</td><td>Overview</td><td><a href="https://github.com/armBookCodeExamples/Videos/blob/main/Chapter3/Readme.md">https://github.com/armBookCodeExamples/Videos/Chapter3</a></td></tr>
+<tr><td>Example 3.2.2</td><td><a href="https://github.com/armBookCodeExamples/subsection_3-2-2_bin">https://github.com/armBookCodeExamples/subsection_3-2-2_bin</a></td></tr>
 <tr><td>Example 3-1</td><td><a href="https://github.com/armBookCodeExamples/example_3-1">https://github.com/armBookCodeExamples/example_3-1</a></td></tr>
 <tr><td>Example 3-2</td><td><a href="https://github.com/armBookCodeExamples/example_3-2">https://github.com/armBookCodeExamples/example_3-2</a></td></tr>
 <tr><td>Example 3-3</td><td><a href="https://github.com/armBookCodeExamples/example_3-3">https://github.com/armBookCodeExamples/example_3-3</a></td></tr>
