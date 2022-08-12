@@ -8,4 +8,4 @@ The following video shows the functionallity that is gradually built from Exampl
       </a>
 </div>
 
-Video credits: María Eloísa Tourret & Camila Belen Silva Sabarots.}
+Video credits: María Eloísa Tourret & Camila Belen Silva Sabarots.
