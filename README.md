@@ -54,8 +54,8 @@
 <tr><td>Example 7-3</td><td><a href="https://github.com/armBookCodeExamples/example_7-3">https://github.com/armBookCodeExamples/example_7-3</a></td></tr>
 <tr><td>Example 7-4</td><td><a href="https://github.com/armBookCodeExamples/example_7-4">https://github.com/armBookCodeExamples/example_7-4</a></td></tr>
 <tr><td rowspan="9" align="center">8</td><td>8.2.1</td><td><a href="https://github.com/armBookCodeExamples/subsection_8-2-1a_bin.git">https://github.com/armBookCodeExamples/subsection_8-2-1a</a></td></tr>
-<tr><td>8.2.1</td><td><a href="https://github.com/armBookCodeExamples/subsection_8-2-1b_bin.git">ttps://github.com/armBookCodeExamples/subsection_8-2-1b</a></td></tr>
-<tr><td>8.2.2</td><td><a href="https://github.com/armBookCodeExamples/subsection_8-2-2_bin.git"https://github.com/armBookCodeExamples/subsection_8-2-2</a></td></tr>
+<tr><td>8.2.1</td><td><a href="https://github.com/armBookCodeExamples/subsection_8-2-1b_bin.git">https://github.com/armBookCodeExamples/subsection_8-2-1b</a></td></tr>
+<tr><td>8.2.2</td><td><a href="https://github.com/armBookCodeExamples/subsection_8-2-2_bin.git">https://github.com/armBookCodeExamples/subsection_8-2-2</a></td></tr>
 <tr><td>Example 8-1</td><td><a href="https://github.com/armBookCodeExamples/example_8-1">https://github.com/armBookCodeExamples/example_8-1</a></td></tr>
 <tr><td>Example 8-2</td><td><a href="https://github.com/armBookCodeExamples/example_8-2">https://github.com/armBookCodeExamples/example_8-2</a></td></tr>
 <tr><td>Example 8-3</td><td><a href="https://github.com/armBookCodeExamples/example_8-3">https://github.com/armBookCodeExamples/example_8-3</a></td></tr>
