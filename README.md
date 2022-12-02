@@ -40,8 +40,8 @@
 <tr><td>Example 4-4</td><td><a href="https://github.com/armBookCodeExamples/example_4-4">https://github.com/armBookCodeExamples/example_4-4</a></td></tr>
 <tr><td>4.4.1</td><td><a href="https://github.com/armBookCodeExamples/case_study_chapter_4">https://github.com/armBookCodeExamples/case_study_chapter_4</a></td></tr>
 
-<tr><td rowspan="4" align="center">5</td><td>Erratum</td><td><a href="https://github.com/armBookCodeExamples/Erratum/tree/main/Chapter6/Readme.md">https://github.com/armBookCodeExamples/Erratum/Chapter6</a>></td></tr>  
-<tr><td>5.3.2</td><td><a href="https://github.com/armBookCodeExamples/subsection_5-3-2">[https://github.com/armBookCodeExamples/templates_subsection_5-4-2](https://github.com/armBookCodeExamples/subsection_5-3-2)</a></td></tr>   
+<tr><td rowspan="4" align="center">5</td><td>Erratum</td><td><a href="https://github.com/armBookCodeExamples/Erratum/tree/main/Chapter5/Readme.md">https://github.com/armBookCodeExamples/Erratum/Chapter5</a></td></tr>  
+<tr><td>5.3.2</td><td><a href="https://github.com/armBookCodeExamples/subsection_5-3-2">https://github.com/armBookCodeExamples/subsection_5-3-2</a></td></tr>   
 <tr><td>5.4.2</td><td><a href="https://github.com/armBookCodeExamples/templates_subsection_5-4-2">https://github.com/armBookCodeExamples/templates_subsection_5-4-2</a></td></tr>
 <tr><td>5.4.2</td><td><a href="https://github.com/armBookCodeExamples/subsection_5-4-2">https://github.com/armBookCodeExamples/subsection_5-4-2</a></td></tr>
 <tr><td rowspan="9" align="center">6</td><td>Erratum</td><td><a href="https://github.com/armBookCodeExamples/Erratum/tree/main/Chapter6/Readme.md">https://github.com/armBookCodeExamples/Erratum/Chapter6</a></td></tr>
