@@ -58,7 +58,7 @@
 <tr><td>Example 6-4</td><td><a href="https://github.com/armBookCodeExamples/example_6-4">https://github.com/armBookCodeExamples/example_6-4</a></td></tr>
 <tr><td>Example 6-5</td><td><a href="https://github.com/armBookCodeExamples/example_6-5">https://github.com/armBookCodeExamples/example_6-5</a></td></tr>
   
-<tr><td rowspan="7" align="center">7</td><td>Overview</td><td><a href="https://github.com/armBookCodeExamples/Videos/blob/main/Chapter6/Readme.md">https://github.com/armBookCodeExamples/Videos/Chapter6</a></td></tr>
+<tr><td rowspan="7" align="center">7</td><td>Overview</td><td><a href="https://github.com/armBookCodeExamples/Videos/blob/main/Chapter7/Readme.md">https://github.com/armBookCodeExamples/Videos/Chapter7</a></td></tr>
 <tr><td>Erratum</td><td><a href="https://github.com/armBookCodeExamples/Erratum/tree/main/Chapter7/Readme.md">https://github.com/armBookCodeExamples/Erratum/Chapter7</a></td></tr>    
 <tr><td>7.2.1</td><td><a href="https://github.com/armBookCodeExamples/subsection_7-2-1__bin.git">https://github.com/armBookCodeExamples/subsection_7-2-1</a></td></tr>  
 <tr><td>Example 7-1</td><td><a href="https://github.com/armBookCodeExamples/example_7-1">https://github.com/armBookCodeExamples/example_7-1</a></td></tr>
