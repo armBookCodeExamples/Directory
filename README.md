@@ -33,7 +33,7 @@
 <tr><td>Example 3-5</td><td><a href="https://github.com/armBookCodeExamples/example_3-5">https://github.com/armBookCodeExamples/example_3-5</a></td></tr>
 <tr><td>3.3.1</td><td><a href="https://github.com/armBookCodeExamples/under_the_hood_chapter_3">https://github.com/armBookCodeExamples/under_the_hood_chapter_3</a></td></tr>
 
-<tr><td rowspan="8" align="center">4</td><td>Overview</td><td><a href="https://github.com/armBookCodeExamples/Videos/blob/main/Chapter4/Readme.md">https://github.com/armBookCodeExamples/Videos/Chapter4</a>   </td></tr>
+<tr><td rowspan="8" align="center">4</td><td>Overview</td><td><a href="https://github.com/armBookCodeExamples/Videos/blob/main/Chapter4/Readme.md">https://github.com/armBookCodeExamples/Videos/Chapter4</a></td></tr>
 <tr><td>Erratum</td><td><a href="https://github.com/armBookCodeExamples/Erratum/tree/main/Chapter4/Readme.md">https://github.com/armBookCodeExamples/Erratum/Chapter4</a></td></tr>
 <tr><td>4.2.2</td><td><a href="https://github.com/armBookCodeExamples/subsection_4-2-2_bin.git">https://github.com/armBookCodeExamples/subsection_4-2-2</a></td></tr>
 <tr><td>Example 4-1</td><td><a href="https://github.com/armBookCodeExamples/example_4-1">https://github.com/armBookCodeExamples/example_4-1</a></td></tr>
@@ -47,7 +47,8 @@
 <tr><td>5.4.2</td><td><a href="https://github.com/armBookCodeExamples/templates_subsection_5-4-2">https://github.com/armBookCodeExamples/templates_subsection_5-4-2</a></td></tr>
 <tr><td>5.4.2</td><td><a href="https://github.com/armBookCodeExamples/subsection_5-4-2">https://github.com/armBookCodeExamples/subsection_5-4-2</a></td></tr>
   
-<tr><td rowspan="9" align="center">6</td><td>Erratum</td><td><a href="https://github.com/armBookCodeExamples/Erratum/tree/main/Chapter6/Readme.md">https://github.com/armBookCodeExamples/Erratum/Chapter6</a></td></tr>
+<tr><td rowspan="10" align="center">6</td><td>Overview</td><td><a href="https://github.com/armBookCodeExamples/Videos/blob/main/Chapter6/Readme.md">https://github.com/armBookCodeExamples/Videos/Chapter6</a></td></tr>
+<tr><td>Erratum</td><td><a href="https://github.com/armBookCodeExamples/Erratum/tree/main/Chapter6/Readme.md">https://github.com/armBookCodeExamples/Erratum/Chapter6</a></td></tr>  
 <tr><td>6.2.1</td><td><a href="https://github.com/armBookCodeExamples/subsection_6-2-1_bin.git">https://github.com/armBookCodeExamples/subsection_6-2-1</a></td></tr>
 <tr><td>Example 6-1</td><td><a href="https://github.com/armBookCodeExamples/example_6-1">https://github.com/armBookCodeExamples/example_6-1</a></td></tr>
 <tr><td>Example 6-2</td><td><a href="https://github.com/armBookCodeExamples/example_6-2">https://github.com/armBookCodeExamples/example_6-2</a></td></tr>
@@ -57,7 +58,8 @@
 <tr><td>Example 6-4</td><td><a href="https://github.com/armBookCodeExamples/example_6-4">https://github.com/armBookCodeExamples/example_6-4</a></td></tr>
 <tr><td>Example 6-5</td><td><a href="https://github.com/armBookCodeExamples/example_6-5">https://github.com/armBookCodeExamples/example_6-5</a></td></tr>
   
-<tr><td rowspan="6" align="center">7</td><td>Erratum</td><td><a href="https://github.com/armBookCodeExamples/Erratum/tree/main/Chapter7/Readme.md">https://github.com/armBookCodeExamples/Erratum/Chapter7</a></td></tr>
+<tr><td rowspan="7" align="center">7</td><td>Overview</td><td><a href="https://github.com/armBookCodeExamples/Videos/blob/main/Chapter6/Readme.md">https://github.com/armBookCodeExamples/Videos/Chapter6</a></td></tr>
+<tr><td>Erratum</td><td><a href="https://github.com/armBookCodeExamples/Erratum/tree/main/Chapter7/Readme.md">https://github.com/armBookCodeExamples/Erratum/Chapter7</a></td></tr>    
 <tr><td>7.2.1</td><td><a href="https://github.com/armBookCodeExamples/subsection_7-2-1__bin.git">https://github.com/armBookCodeExamples/subsection_7-2-1</a></td></tr>  
 <tr><td>Example 7-1</td><td><a href="https://github.com/armBookCodeExamples/example_7-1">https://github.com/armBookCodeExamples/example_7-1</a></td></tr>
 <tr><td>Example 7-2</td><td><a href="https://github.com/armBookCodeExamples/example_7-2">https://github.com/armBookCodeExamples/example_7-2</a></td></tr>
