@@ -2,8 +2,11 @@
 
 <table bakground="FFF">
 <tr> <td><b>Chapter</b></td> <td><b>Section</b></td> <td><b>Repository URL</b></td> </tr>
+  
+<tr><td align="center">-</td><td>Students Projects</td><td><a href="https://github.com/armBookCodeExamples/StudentsProjects/blob/main/README.md">https://github.com/armBookCodeExamples/StudentsProjects/</a></td></tr>
+  
 <!-- Pegar tabla de excel inicio -->
-
+  
 <tr><td rowspan="8" align="center">1</td><td>Overview</td><td><a href="https://github.com/armBookCodeExamples/Videos/blob/main/Chapter1/Readme.md">https://github.com/armBookCodeExamples/Videos/Chapter1</a></td></tr>
 <tr><td>Erratum</td><td><a href="https://github.com/armBookCodeExamples/Erratum/tree/main/Chapter1/Readme.md">https://github.com/armBookCodeExamples/Erratum/Chapter1</a></td></tr>
 <tr><td>1.2.3</td><td><a href="https://github.com/armBookCodeExamples/subsection_1-2-3">https://github.com/armBookCodeExamples/subsection_1-2-3</a></td></tr>
