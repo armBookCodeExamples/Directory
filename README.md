@@ -4,6 +4,8 @@
 <tr> <td><b>Chapter</b></td> <td><b>Section</b></td> <td><b>Repository URL</b></td> </tr>
   
 <tr><td align="center">-</td><td>Students Projects</td><td><a href="https://github.com/armBookCodeExamples/StudentsProjects/blob/main/README.md">https://github.com/armBookCodeExamples/StudentsProjects/</a></td></tr>
+
+<tr><td align="center">-</td><td>Buy the BoM</td><td><a href="https://github.com/armBookCodeExamples/NotesOnDigikeyBoM/blob/main/README.md">https://github.com/armBookCodeExamples/NotesOnDigikeyBoM/</a></td></tr>
   
 <!-- Pegar tabla de excel inicio -->
   
