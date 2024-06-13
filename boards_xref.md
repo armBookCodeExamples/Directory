@@ -1,4 +1,6 @@
-# Board Cross-references
+# Board cross-references
+
+Links to Mbed-OS board info, processor datasheets and reference manuals, board schematics and reference manuals.
 
 | Board          | Device (Rev)     | Core       | Reference Manual | Board design | Reference Manual | Equivalencies<sup>1</sup> |
 |----------------|------------------|------------|------------------|--------------|------------------|---------------------------------|
@@ -8,9 +10,14 @@
 
 [1]: "Equivalencies": same pinout, but _not necessarily_ same peripherals in those pins, nor same way to configure them
 
-## LEDs + Push-buttons
 
-| Board          | LED1  | LED2 | LED3 | Push-button |
-|----------------|-------|------|------|-------------|
-| NUCLEO-F429ZI  |6.5: LD1, green, PB0, active high | 6.5: LD2, blue, PB7, active high | 6.5: LD3, red, PB14, active high | 6.6: B1, PC13; schematic: **active high** |
-| NUCLEO-F401RE  | :cry: | 6.4: LD2, green, shared with Arduino D13(Table 16): PA5 (Table 11 - Table 23), active high | :cry: | 6.5: B1, PC13; schematic: **active low**  |
+## Peripheral cross-references
+
+Links to Mbed-OS pin names for each peripheral, for each board.
+
+### LEDs + Push-buttons
+
+| Board          | LED1  | LED2 | LED3 | BUTTON1 |
+|----------------|-------|------|------|---------|
+| [NUCLEO-F429ZI](https://github.com/ARMmbed/mbed-os/blob/20340d79413b73a59bf6d2034d5e1d7fc19f9889/targets/TARGET_STM/TARGET_STM32F4/TARGET_STM32F429xI/TARGET_NUCLEO_F429ZI/PinNames.h#L382-L386) |6.5: LD1, green, PB0, active high | 6.5: LD2, blue, PB7, active high | 6.5: LD3, red, PB14, active high | 6.6: B1, PC13; schematic: **active high** |
+| [NUCLEO-F401RE](https://github.com/ARMmbed/mbed-os/blob/20340d79413b73a59bf6d2034d5e1d7fc19f9889/targets/TARGET_STM/TARGET_STM32F4/TARGET_STM32F401xE/TARGET_NUCLEO_F401RE/PinNames.h#L165-L167) | 6.4: LD2, green, shared with Arduino D13(Table 16): PA5 (Table 11 - Table 23), active high | :cry: | :cry: | 6.5: B1, PC13; schematic: **active low**  |
